@@ -19,4 +19,7 @@ Display average
 
 End
 
+### Flowchart
 
+![Total and Average Flowchart](Q2_Total_Average.png)
+Added flowchart image for Question 2
