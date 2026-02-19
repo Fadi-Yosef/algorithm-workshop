@@ -192,8 +192,8 @@ End
 ### ✔ Flowchart
 ```mermaid
 flowchart TD
-A([Start]) --> B[/Input P, R, T/]
-B --> C[SI = (P * R * T) / 100]
+A([Start]) --> B[/Input P R T/]
+B --> C[Compute SI = (P x R x T) divided by 100]
 C --> D[/Display SI/]
 D --> E([End])
 
